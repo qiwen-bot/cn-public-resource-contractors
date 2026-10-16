@@ -51,3 +51,5 @@ WebSearch / WebFetch 核验；不臆造省本级中标人。computerUse 并行�
 - gpcgd 2022 第一批招标公告 / 监理结果镜像
 - ygp.gdzwfw.gov.cn/zjfwcs/gd-zjcs-pub/（门户；首页偶发 500，运营概况等子页可开）
 - bid.10huan / lawinsider（监理与需求转载）/ czhaobiao（广州运营，人机验证）
+
+- **惠州仲恺**：已追加宏毅科技 2014 区级中介机构服务管理系统行（HZHT2014-03019，30万）；全市级「惠州市网上中介超市」主平台承建商仍未知。CSV 91 行。
